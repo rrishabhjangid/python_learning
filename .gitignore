@@ -1,0 +1,5 @@
+FOML/
+hello.py
+.venv/
+.ipynb_checkpoints/
+__pycache__/
